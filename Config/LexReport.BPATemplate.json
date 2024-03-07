@@ -1,5 +1,6 @@
 {
-  "style": "Table",
+  "name": "LexReport",
+  "style": "Tenant",
   "Fields": [
     {
       "name": "PasswordNeverExpires",
